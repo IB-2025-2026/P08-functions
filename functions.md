@@ -140,7 +140,9 @@ Estudie del [tutorial de referencia](https://www.learncpp.com/) en la asignatura
 * El identificador de una función debe reflejar claramente lo que la función hace 
 
 1. Escriba un programa `function-example.cc` que incluya una función C++ que realice el cálculo de la siguiente función matemática de tres variables:
+
 $$g\left(x,y,t\right)=\frac{\sqrt{2t-4}}{x^2-y^2}$$
+
 La entrada del programa serán los valores de $x,y,z$ y devolverá la salida de evaluar la función $g(x,y,z)$.
 
 ```
